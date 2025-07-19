@@ -1,0 +1,7 @@
+playwright
+openai
+pyttsx3
+SpeechRecognition
+textstat
+chromadb
+streamlit

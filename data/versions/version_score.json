@@ -1,0 +1,20 @@
+{
+  "versions": [
+    {
+      "version_id": "v1",
+      "url": "https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1",
+      "readability": 62.4,
+      "grade_level": 7.8,
+      "reward": 0.624,
+      "timestamp": "2025-07-18T21:35:00"
+    },
+    {
+      "version_id": "v2",
+      "url": "https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1",
+      "readability": 69.2,
+      "grade_level": 6.4,
+      "reward": 0.692,
+      "timestamp": "2025-07-18T21:50:00"
+    }
+  ]
+}
